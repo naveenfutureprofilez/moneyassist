@@ -215,14 +215,14 @@ p:empty {
 .thanku-img img { max-width: 400px; margin-bottom: 40px; }
 .thanku-sec p { font-size: 18px; font-family: "Product Sans"; color: #555; line-height: 26px; max-width: 500px; margin: auto; }
 
-
+ 
 /*14 dec*/
 .review-banner h2 { text-align: center; }
 .review-banner .a-title > a { display: table; margin: auto; }
 div#badge-230 { margin: auto; margin-top: 14px; }
 .new-footer { padding: 50px 15px; }
 .new-footer p { padding-bottom: 9px; color: #fff; font-weight: 300; font-size: 17px; }
-.new-footer h3 { color: #da3f83; font-size: 21px; font-weight: 700; margin-bottom: 14px; }
+.new-footer h3 { color: #da3f83; font-size: 21px; font-weight: 800; margin-bottom: 14px; }
 ul.footer-links li a { color: #fff; margin-left: 20px; border-right: 1px solid #ccc; padding-right: 20px; cursor: pointer; }
 ul.footer-links li:last-child a { margin-right: 0; padding-right: 0; border: 0; }
 .contactrev { display: flex; align-items: center; }
